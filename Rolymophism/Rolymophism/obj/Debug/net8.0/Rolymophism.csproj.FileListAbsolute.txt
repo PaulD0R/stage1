@@ -1,0 +1,14 @@
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\bin\Debug\net8.0\Rolymophism.exe
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\bin\Debug\net8.0\Rolymophism.deps.json
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\bin\Debug\net8.0\Rolymophism.runtimeconfig.json
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\bin\Debug\net8.0\Rolymophism.dll
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\bin\Debug\net8.0\Rolymophism.pdb
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.dll
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\refint\Rolymophism.dll
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.pdb
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.genruntimeconfig.cache
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\ref\Rolymophism.dll
