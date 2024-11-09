@@ -12,3 +12,4 @@ C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\r
 C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.pdb
 C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.genruntimeconfig.cache
 C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\ref\Rolymophism.dll
+C:\Users\Павел\Desktop\Этап1\Rolymophism\Rolymophism\obj\Debug\net8.0\Rolymophism.sourcelink.json

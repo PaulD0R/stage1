@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\bin\Debug\net8.0\_3_4.exe
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\bin\Debug\net8.0\_3_4.deps.json
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\bin\Debug\net8.0\_3_4.runtimeconfig.json
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\bin\Debug\net8.0\_3_4.dll
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\bin\Debug\net8.0\_3_4.pdb
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\_3_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\_3_4.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\_3_4.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\_3_4.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\_3_4.sourcelink.json
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\_3_4.dll
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\refint\_3_4.dll
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\_3_4.pdb
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\_3_4.genruntimeconfig.cache
+C:\Users\Павел\Desktop\Этап1\_3_4\_3_4\obj\Debug\net8.0\ref\_3_4.dll
